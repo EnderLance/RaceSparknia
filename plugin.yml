@@ -1,0 +1,7 @@
+name: RaceSparknia
+main: ca.enderlance.RaceSparknia
+version: 0.1
+description: Adds the Sparknia Race to the game.
+commands:
+  v:
+    description: Root command for Sparkniae.
